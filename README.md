@@ -45,7 +45,6 @@
 - [Chef & Vagrant](https://github.com/addnightowl/learn-chef-WGU/tree/main)
 - [Desktop Virtualization]()
 - [Data Center Virtualization]()
-- [Migrating to the Cloud]()
 
 ## [🎖️ Check Out My Creds]("https://www.credly.com/users/anthony-davis.3e6d958f")
 
