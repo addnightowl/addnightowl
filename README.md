@@ -86,4 +86,4 @@
 
 [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/anthonyddavis
+[linkedin]: https://www.linkedin.com/in/anthony-dewayne-davis/
