@@ -24,7 +24,7 @@
 
 ### [🐍 Python](https://github.com/addnightowl/PYTHON)
 
-- [S3 Upload Desktop App]()
+- [S3 Upload Desktop App](https://github.com/addnightowl/PYTHON/blob/main/s3-upload-desktop-app/README.md)
 
 ### [#️⃣ Bash](https://github.com/addnightowl/BASH)
 
