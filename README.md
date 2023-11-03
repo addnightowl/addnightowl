@@ -28,6 +28,7 @@
 
 ### [#️⃣ Bash](https://github.com/addnightowl/BASH)
 
+- [Simple S3 Bucket App Script](https://github.com/addnightowl/BASH/blob/main/S3-Bucket-App/README.md)
 - [K8's]()
 
 ### [🛜 Internet of Things](https://github.com/addnightowl/InternetOfThings)
