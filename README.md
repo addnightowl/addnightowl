@@ -2,25 +2,25 @@
 
 ## [Programmer](https://github.com/addnightowl), [Cloud Engineer](https://www.linkedin.com/in/anthony-dewayne-davis/)
 
-## 👨🏾‍💻 Cloud & Software Development Projects
+## 👨🏾‍💻 Cloud, Software, & Other Development Projects
 
 ### [🖥️ Full Stack Desktop Apps](https://github.com/addnightowl/Full-Stack-Desktop-Apps)
 
 - [Passport Photo Validation App](https://github.com/addnightowl/Full-Stack-Desktop-Apps/tree/main/Cloud-Mania-Passport-Photo-Validation)
-- [Deploy Viya4 on AWS App]()
+- [Deploy Viya4 on AWS App - Coming Soon!!]()
 
 ### [🌩️ AWS](https://github.com/addnightowl/AWS)
 
-- [DevOps - AWS, Terraform, Ansible, Jenkins]()
-- [AWS & Terraform]()
+- [DevOps - AWS, Terraform, Ansible, Jenkins - Coming Soon!!]()
+- [AWS & Terraform - Coming Soon!!]()
 
 ### [☁️ Azure](https://github.com/addnightowl/AZURE)
 
-- [Azure & Terraform]()
+- [Azure & Terraform - Coming Soon!!]()
 
 ### [🌥️ GCP](https://github.com/addnightowl/GCP)
 
-- [GCP & Terraform]()
+- [GCP & Terraform - Coming Soon!!]()
 
 ### [🐍 Python](https://github.com/addnightowl/PYTHON)
 
@@ -29,11 +29,11 @@
 ### [#️⃣ Bash](https://github.com/addnightowl/BASH)
 
 - [Simple S3 Bucket App Script](https://github.com/addnightowl/BASH/blob/main/S3-Bucket-App/README.md)
-- [K8's]()
+- [K8's - Coming Soon!!]()
 
 ### [🛜 Internet of Things](https://github.com/addnightowl/InternetOfThings)
 
-- [NodeRed]()
+- [NodeRed - Coming Soon!!]()
 
 ### [😼 Gist](https://gist.github.com/addnightowl)
 
