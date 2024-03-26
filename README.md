@@ -1,6 +1,6 @@
 # Hi, I'm Anthony ⚡️
 
-## [Programmer](https://github.com/addnightowl), [Cloud Engineer](https://www.linkedin.com/in/anthony-dewayne-davis/)
+## [Cloud Professional](https://www.linkedin.com/in/anthony-dewayne-davis/), [Cloud Engineer](https://github.com/anthoday), [Programmer](https://github.com/addnightowl)
 
 ## 👨🏾‍💻 Cloud, Software, & Other Development Projects
 
